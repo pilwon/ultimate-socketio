@@ -1,6 +1,6 @@
 # ultimate-socketio
 
-**Socket.io** plugin for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
+**Socket.io** plugin for [ultimate-seed](https://github.com/pilwon/ultimate-seed).
 
 ## **★ This project is under development ★**
 
