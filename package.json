@@ -1,0 +1,19 @@
+{
+  "name": "ultimate-socketio",
+  "version": "0.1.0",
+  "description": "Socket.io plugin for `ultimate-seed`.",
+  "license": "MIT",
+  "author": "Pilwon Huh <pilwon@gmail.com>",
+  "homepage": "https://github.com/pilwon/node-ultimate-socketio",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pilwon/node-ultimate-socketio.git"
+  },
+  "keywords": [
+    "ultimate",
+    "socket.io"
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {}
+}
